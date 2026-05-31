@@ -1,0 +1,37 @@
+{
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_title_s": "New York Aerial Photos (1960s)",
+  "dct_description_sm": [
+    "GeoJSON index map of points.",
+    "This is a description"
+  ],
+  "dct_creator_sm": [
+    "Jane Doe"
+  ],
+  "dct_publisher_sm": [
+    "The Publisher"
+  ],
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Aerial photographs",
+    "Index maps"
+  ],
+  "dct_subject_sm": [
+    "GBL Fixtures"
+  ],
+  "dct_issued_s": "c.1960",
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "locn_geometry": "ENVELOPE(-74.783,-74.733,40.2,40.166)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJSON",
+  "id": "cornell-ny-aerial-photos-1960s",
+  "dct_identifier_sm": [
+    "cornell-ny-aerial-photos-1960s"
+  ],
+  "dcat_bbox": "ENVELOPE(-74.783,-74.733,40.2,40.166)"
+}
