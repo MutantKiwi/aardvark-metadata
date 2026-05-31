@@ -1,8 +1,9 @@
 {
   "id": "LINZ-NZTOPO50-AS21-AS22-1-00-2009",
-  "dct_title_s": "NZTopo50-AT24 Cape Reinga Edition 1.00 2009",
+  "dct_title_s": "NZTopo50-AS21/AS22 Manawatāwhi / Three Kings Islands Edition 1.00 2009",
+  "schema_provider_s": "University of Auckland",
   "dct_description_sm": [
-    "NZTopo50-AT24 Cape Reinga Edition 1 2009 - is part of the 1:50,000 Topographical series published by Toitū Te Whenua / Land Information New Zealand. Vector data is avaliable from the LINZ Data Service -  https://data.linz.govt.nz/layers/category/topographic/nz-topo-50-data/"
+    "NZTopo50-AS21/AS22 Manawatāwhi / Three Kings Islands Edition 1.01 2016 - is part of the 1:50,000 Topographical series published by Toitū Te Whenua / Land Information New Zealand. Vector data is avaliable from the LINZ Data Service -  https://data.linz.govt.nz/layers/category/topographic/nz-topo-50-data/"
   ],
   "gbl_resourceClass_sm": [
     "Maps"
@@ -21,7 +22,6 @@
   "dct_publisher_sm": [
     "Toitū Te Whenua Land Information New Zealand"
   ],
-  "schema_provider_s": "University of Auckland",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-31T08:58:54Z"
+  "gbl_mdModified_dt": "2026-05-31T09:43:52Z"
 }
