@@ -1,0 +1,32 @@
+{
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_title_s": "Building Footprints, Frobozz Headquarters, 781 GUE",
+  "dct_description_sm": [
+    "This is just a test record that has a couple of display notes."
+  ],
+  "dct_creator_sm": [
+    "FrobozzCo International"
+  ],
+  "dct_publisher_sm": [
+    "FrobozzCo International"
+  ],
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
+  "dct_subject_sm": [
+    "GBL Fixtures",
+    "Buildings"
+  ],
+  "dct_issued_s": "1983-01-01",
+  "dct_spatial_sm": [
+    "Flatheadia, Great Underground Empire"
+  ],
+  "locn_geometry": "ENVELOPE(-71.118450,-71.074848,42.381246,42.354612)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "id": "frobozz-111",
+  "dcat_bbox": "ENVELOPE(-71.118450,-71.074848,42.381246,42.354612)"
+}
