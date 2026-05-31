@@ -1,0 +1,21 @@
+{
+  "id": "LINZ-NZTOPO50-AT24-1-00-2009",
+  "dct_title_s": "NZTopo50-AT24 Cape Reinga Edition 1.00 2009",
+  "schema_provider_s": "University of Auckland",
+  "dct_description_sm": [
+    "NZTopo50-AT24 Cape Reinga Edition 1 2009 - is part of the 1:50,000 Topographical series published by Toitū Te Whenua / Land Information New Zealand. Vector data is avaliable from the LINZ Data Service -  https://data.linz.govt.nz/layers/category/topographic/nz-topo-50-data/"
+  ],
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "ENVELOPE(172.60699562, 172.8695046, -34.35871355, -34.68392258)",
+  "dcat_bbox": "ENVELOPE(172.60699562, 172.8695046, -34.35871355, -34.68392258)",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geodatahub.library.auckland.ac.nz/api/gdr/download?filedirbase=/public/maps/LINZ&filedir=Topo/NZTopo50/geotif/NZTM/NZTopo50_AT24_1-00_2009_geo.tif\"}",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-31T09:40:01Z"
+}
