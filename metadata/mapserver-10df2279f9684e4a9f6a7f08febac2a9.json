@@ -1,0 +1,28 @@
+{
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_title_s": "World Imagery (Esri)",
+  "dct_description_sm": [
+    "ArcGIS Dynamic Map Layer with single layer indicated.",
+    "World Imagery provides one meter or better satellite and aerial imagery for most of the world’s landmass and lower resolution satellite imagery worldwide."
+  ],
+  "dct_creator_sm": [
+    "Esri"
+  ],
+  "gbl_resourceClass_sm": [
+    "Web services",
+    "Imagery"
+  ],
+  "dct_subject_sm": [
+    "GBL Fixtures"
+  ],
+  "dct_issued_s": "2009",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Dynamic Map Service",
+  "id": "mapserver-10df2279f9684e4a9f6a7f08febac2a9",
+  "dct_identifier_sm": [
+    "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer"
+  ]
+}
