@@ -1,0 +1,38 @@
+{
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_title_s": "Millionth Map of Hispanic America",
+  "dct_description_sm": [
+    "GeoJSON index map of polygons using the OpenIndexMaps 1.0 schema. Complex geometry including inset maps (Multipolygon) and multiple editions of some sheets.",
+    "Download links are provided for each sheet, record links to index map on GitHub."
+  ],
+  "dct_creator_sm": [
+    "American Geographical Society of New York"
+  ],
+  "dct_publisher_sm": [
+    "American Geographical Society of New York"
+  ],
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Index maps",
+    "Topographic maps"
+  ],
+  "dct_subject_sm": [
+    "Topography"
+  ],
+  "dct_spatial_sm": [
+    "Latin America",
+    "Central America",
+    "South America"
+  ],
+  "locn_geometry": "ENVELOPE(-119,-30,33,-56)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoJSON",
+  "id": "ark:-77981-gmgscj87k49",
+  "dct_identifier_sm": [
+    "050-b A-1:1,000,000",
+    "ark:77981/gmgscj87k49"
+  ],
+  "dcat_bbox": "ENVELOPE(-119,-30,33,-56)"
+}
