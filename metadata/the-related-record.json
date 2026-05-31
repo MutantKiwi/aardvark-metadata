@@ -1,0 +1,22 @@
+{
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_title_s": "The Related Record",
+  "dct_description_sm": [
+    "This record serves as the ID for each item relation in the record titled \"All Relationships\""
+  ],
+  "dct_creator_sm": [
+    "GeoBlacklight Community"
+  ],
+  "gbl_resourceClass_sm": [
+    "Other"
+  ],
+  "dct_subject_sm": [
+    "GBL Fixtures"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "id": "the-related-record"
+}
