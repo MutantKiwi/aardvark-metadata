@@ -1,22 +1,68 @@
 {
   "id": "LINZ-NZTOPO50-AS21-AS22-1-00-2009",
-  "dct_title_s": "NZTopo50-AS21/AS22 Manawatāwhi / Three Kings Islands Edition 1.00 2009",
+  "dct_title_s": "NZTopo50-AT24 Cape Reinga Edition 1.00 2009",
+  "dct_description_sm": [
+    "NZTopo50-AT24 Cape Reinga Edition 1 2009 - is part of the 1:50,000 Topographical series published by Toitū Te Whenua / Land Information New Zealand. Vector data is avaliable from the LINZ Data Service -  https://data.linz.govt.nz/layers/category/topographic/nz-topo-50-data/"
+  ],
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dct_accessRights_s": "Public",
-  "gbl_mdVersion_s": "Aardvark",
-  "dct_description_sm": [
-    "NZTopo50-AS21/AS22 Manawatāwhi / Three Kings Islands Edition 1 2009 - is part of the 1:50,000 Topographical series published by Toitū Te Whenua / Land Information New Zealand. Vector data is avaliable from the LINZ Data Service -  https://data.linz.govt.nz/layers/category/topographic/nz-topo-50-data/"
+  "gbl_resourceType_sm": [
+    "Topographic maps"
   ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "ENVELOPE(172.60699562, 172.8695046, -34.35871355, -34.68392258)",
+  "dcat_bbox": "ENVELOPE(172.60699562, 172.8695046, -34.35871355, -34.68392258)",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geodatahub.library.auckland.ac.nz/api/gdr/download?filedirbase=/public/maps/LINZ&filedir=Topo/NZTopo50/geotif/NZTM/NZTopo50_AT24_1-00_2009_geo.tif\"}",
   "dct_creator_sm": [
     "Toitū Te Whenua Land Information New Zealand"
   ],
   "dct_publisher_sm": [
     "Toitū Te Whenua Land Information New Zealand"
   ],
+  "schema_provider_s": "University of Auckland",
   "dct_issued_s": "2009",
-  "dcat_bbox": "ENVELOPE(171.95611194, 172.22005373, -34.03027149, -34.35683573)",
-  "locn_geometry": "ENVELOPE(171.95611194, 172.22005373, -34.03027149, -34.35683573)",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geodatahub.library.auckland.ac.nz/api/gdr/download?filedirbase=/public/maps/LINZ&filedir=Topo/NZTopo50/geotif/NZTM/NZTopo50_AS21-22_1-00_2009_geo.tif\"}"
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "dcat_theme_sm": [
+    "Utilities and Communication",
+    "Transportation",
+    "Oceans",
+    "Imagery and Base Maps",
+    "Elevation",
+    "Boundaries"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "gbl_displayNote_sm": [
+    "Info: This map is superseeded"
+  ],
+  "dct_spatial_sm": [
+    "New Zealand",
+    "Aotearoa",
+    "Northland"
+  ],
+  "gbl_georeferenced_b": "true",
+  "gbl_fileSize_s": "158mb",
+  "dct_rights_sm": [
+    "Unless otherwise specified, content produced by Toitū Te Whenua Land Information New Zealand is licensed under the Creative Commons Attribution 4.0 International licence. In essence you are free to copy, distribute, and adapt the work, as long as you attribute the work to Toitū Te Whenua Land Information New Zealand and abide by the other licence terms."
+  ],
+  "dct_rightsHolder_sm": [
+    "Toitū Te Whenua Land Information New Zealand"
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_isPartOf_sm": [
+    "LINZ-NZTOPO50-MASTER"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_suppressed_b": "false",
+  "gbl_mdModified_dt": "2026-05-31T08:54:11Z"
 }
