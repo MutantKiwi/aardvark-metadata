@@ -1,0 +1,35 @@
+{
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_title_s": "Glacial Boundaries: Illinois, 1998",
+  "dct_description_sm": [
+    "This record points to an the top level of an Esri Rest Web Map Service. It does not specify a layer..",
+    "Glacial boundary lines representing the extent of glaciation for major glacial episodes in Illinois. Data originally from Quaternary Deposits in Illinois map by Lineback (1979) and modified according to the reclassification by Hansel and Johnson, ISGS Bulletin 104 (1996). Attribute items include glacial episode identifier. ISGS, 1984 (revised 1998)."
+  ],
+  "dct_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dct_publisher_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
+  "dct_subject_sm": [
+    "GBL Fixtures"
+  ],
+  "dct_issued_s": "1905-06-20",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "locn_geometry": "ENVELOPE(-91.513518,-87.495214,42.508348,36.969972)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "id": "90f14ff4-1359-4beb-b931-5cb41d20ab90",
+  "dct_identifier_sm": [
+    "90f14ff4-1359-4beb-b931-5cb41d20ab90"
+  ],
+  "dcat_bbox": "ENVELOPE(-91.513518,-87.495214,42.508348,36.969972)"
+}
