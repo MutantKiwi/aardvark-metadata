@@ -1,0 +1,64 @@
+{
+  "dct_title_s": "NZTopo50 1:50,000 topographical map series",
+  "dct_description_sm": [
+    "The NZTOPO50 is the current 1:50,000 topographical series published by Toitū Te Whenua / Land Information New Zealand. It replaces the NZMS 260 series. Web services and vector data are also avaliable from the LINZ Data Service -  https://data.linz.govt.nz/layers/category/topographic/nz-topo-50-data/"
+	
+  ],
+  "dct_language_sm": [
+    "eng",
+    "mao"
+  ],
+ 
+  "dct_replaces_sm": [
+    "LINZ-NZMS260-MASTER",
+  ],
+  
+  "dct_creator_sm": [
+    "Toitū Te Whenua Land Information New Zealand"
+  ],
+  "dct_publisher_sm": [
+    "Toitū Te Whenua Land Information New Zealand"
+  ]
+  "dct_rights_sm": [
+    "Unless otherwise specified, content produced by Toitū Te Whenua Land Information New Zealand is licensed under the Creative Commons Attribution 4.0 International licence. In essence you are free to copy, distribute, and adapt the work, as long as you attribute the work to Toitū Te Whenua Land Information New Zealand and abide by the other licence terms"
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ]
+  "schema_provider_s": "University of Auckland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_subject_sm": [
+    "Topographic"
+  ],
+  "dcat_theme_sm": [
+    "Boundaries",
+	"Elevation",
+	"Inland Waters",
+    "Land cover",
+    "Military",
+	"Structure",
+	"Transportation",
+	"Utilities"
+  ],
+  "dct_temporal_sm": [
+    "2009 - current"
+  ],
+  "dct_spatial_sm": [
+    "New Zealand",
+	"Aotearoa"
+  ],
+  "locn_geometry": "ENVELOPE(165.61,179.42,-33.69,-48.11)",
+  "dcat_bbox": "ENVELOPE(165.61,179.42,-33.69,-48.11)",
+  "dct_accessRights_s": "Public",
+  "gbl_fileSize_s": "5MB"
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://www.linz.govt.nz/sites/default/files/ni-nztm.pdf\",\"label\":\"North Island Index\"},{\"url\":\"https://www.linz.govt.nz/sites/default/files/si-nztm.pdf\",\"label\":\"South Island Index\"}],\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://data.linz.govt.nz/services/api/v1.x/layers/50767/versions/345692/metadata/iso/\",\"http://lccn.loc.gov/sh85035852\":\"https://www.linz.govt.nz/sites/default/files/topo50-map-guide_0.pdf\",\"http://schema.org/url\":\"https://www.linz.govt.nz/products-services/maps/new-zealand-topographic-maps/topo50-map-chooser/\"}",
+  "gbl_mdModified_dt": "2023-07-19T14:33:57Z", 
+  "id": "LINZ-NZTOPO50-MASTER",
+  "gbl_mdVersion_s": "Aardvark"
+   "geomg_id_s": "LINZ-NZTOPO50-MASTER"
+}

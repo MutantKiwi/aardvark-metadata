@@ -1,0 +1,64 @@
+{
+  "dct_title_s": "NZMS1 1:63,360 topographical map series",
+  "dct_description_sm": [
+    "The NZMS1 is a historical 1:63,360 topographical series published by Toitū Te Whenua / Land Information New Zealand. The NZMS1 Topographic map series began in 1948 and ended production in 1977. It was replaced by the NZMS260 series."
+	
+  ],
+  "dct_language_sm": [
+    "eng",
+    "mao"
+  ],
+ 
+  "dct_isReplacedBy_sm": [
+    "LINZ-NZMS260-MASTER",
+  ],
+  
+  "dct_creator_sm": [
+    "Toitū Te Whenua Land Information New Zealand"
+  ],
+  "dct_publisher_sm": [
+    "Toitū Te Whenua Land Information New Zealand"
+  ]
+  "dct_rights_sm": [
+    "Unless otherwise specified, content produced by Toitū Te Whenua Land Information New Zealand is licensed under the Creative Commons Attribution 4.0 International licence. In essence you are free to copy, distribute, and adapt the work, as long as you attribute the work to Toitū Te Whenua Land Information New Zealand and abide by the other licence terms"
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ]
+  "schema_provider_s": "University of Auckland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_subject_sm": [
+    "Topographic"
+  ],
+  "dcat_theme_sm": [
+    "Boundaries",
+	"Elevation",
+	"Inland Waters",
+    "Land cover",
+    "Military",
+	"Structure",
+	"Transportation",
+	"Utilities"
+  ],
+  "dct_temporal_sm": [
+    "1948 - 1977"
+  ],
+  "dct_spatial_sm": [
+    "New Zealand",
+	"Aotearoa"
+  ],
+  "locn_geometry": "ENVELOPE(165.61,179.42,-33.69,-48.11)",
+  "dcat_bbox": "ENVELOPE(165.61,179.42,-33.69,-48.11)",
+  "dct_accessRights_s": "Public",
+  "gbl_fileSize_s": "5MB"
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://www.linz.govt.nz/sites/default/files/ni_nztm_260.pdf\",\"label\":\"North Island Index\"},{\"url\":\"https://www.linz.govt.nz/sites/default/files/si_nztm_260.pdf\",\"label\":\"South Island Index\"}],\"http://schema.org/url\":\"https://www.linz.govt.nz/products-services/maps/new-zealand-topographic-maps/topo50-map-chooser/\"}",
+  "gbl_mdModified_dt": "2023-07-19T14:33:57Z", 
+  "id": "LINZ-NZMS1-MASTER",
+  "gbl_mdVersion_s": "Aardvark",
+  "geomg_id_s": "LINZ-NZMS1-MASTER"
+}

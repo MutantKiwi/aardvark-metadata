@@ -1,0 +1,78 @@
+{
+  
+  "id": "LINZ-NZMS1-N1N2-North_Cape_ed1_1954",
+  "dct_title_s": "NZMS1 N1 & N2 North Cape ed1 1954",
+   "dct_alternative_sm": [
+    "Otou"
+	 ],
+  "dct_description_sm": [
+    "NZMS1 N1 & N2 North Cape ed1 1954 - is part of the historical NZMS 1 1:63,360 Topographical series published by the Department of Lands and Surveys (now known as Toitū Te Whenua / Land Information New Zealand)."
+	
+  ],
+  "dct_language_sm": [
+    "eng",
+    "mao"
+  ],
+ 
+  "gbl_displayNote_sm": [
+    "Info:  This series is historical and has been superseeded"
+  ],
+  "dct_creator_sm": [
+    "Toitū Te Whenua Land Information New Zealand"
+  ],
+  "dct_publisher_sm": [
+    "Toitū Te Whenua Land Information New Zealand"
+  ]
+  "dct_rights_sm": [
+    "Unless otherwise specified, content produced by Toitū Te Whenua Land Information New Zealand is licensed under the Creative Commons Attribution 4.0 International licence. In essence you are free to copy, distribute, and adapt the work, as long as you attribute the work to Toitū Te Whenua Land Information New Zealand and abide by the other licence terms"
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ]
+  "schema_provider_s": "University of Auckland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_subject_sm": [
+    "Topographic"
+  ],
+  "dcat_theme_sm": [
+    "Boundaries",
+	"Elevation",
+	"Inland Waters",
+    "Land cover",
+    "Military",
+	"Structure",
+	"Transportation",
+	"Utilities"
+  ],
+  "dct_issued_s": "1954",
+  "gbl_indexYear_im": "1954"
+  "dct_temporal_sm": "Historic series" 
+  "dct_spatial_sm": [
+    "New Zealand",
+	"Aotearoa",
+	"Northland"
+  ],
+  "locn_geometry": "ENVELOPE(172.616682,173.100081,-34.245037,-34.533453)",
+  "dcat_bbox": "ENVELOPE(172.616682,173.100081,-34.245037,-34.533453)",
+  "gbl_georeferenced_b": "true"
+  "dct_accessRights_s": "Public",
+  "gbl_fileSize_s": "138MB"
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodatahub.library.auckland.ac.nz/api/gdr/download?filedirbase=/public/maps/LINZ&filedir=NZMS/NZMS_001/geotif/NZMS001_N1-2_1954_geo.tif\",\"label\":\"GeoTIF\"},{\"url\":\"https://geodatahub.library.auckland.ac.nz/api/gdr/download?filedirbase=/public/maps/LINZ&filedir=NZMS/NZMS_001/tif/NZMS001_N1-2_1954.tif\",\"label\":\"TIF (Printing)\"}],\"http://schema.org/url\":\"https://data.linz.govt.nz/layer/51579-nzms-260-map-sheets\",\"http://iiif.io/api/image\":\"https://ogytrwso6baludhwr6ld3iad2q0jprem.lambda-url.ap-southeast-2.on.aws/iiif/2/NZMS001_N1-2_1954/info.json\"}",
+  "gbl_mdModified_dt": "2023-07-19T14:33:57Z", 
+  "pcdm_memberOf_sm": "LINZ-NZMS1-MASTER", "dct_isVersionOf_sm": [
+	"LINZ-NZMS1-N1N2-North_Cape_ed1_1954",
+	"LINZ-NZMS1-N1N2-North_Cape_ed2_1970",
+	"LINZ-NZMS1-N1N2-North_Cape_ed3_1977"
+  ],
+ 
+  "dct_isReplacedBy_sm": [
+    "LINZ-NZMS1-N1N2-North_Cape_ed2_1970",
+  ],      
+  "gbl_mdVersion_s": "Aardvark",
+   "geomg_id_s": "LINZ-NZMS1-N1N2-North_Cape_ed1_1954"
+}

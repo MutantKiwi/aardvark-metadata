@@ -1,0 +1,79 @@
+{
+  
+  "id": "LINZ-NZMS1-N7_Doubtless_Bay_ed4_1983",
+  "dct_title_s": "NZMS1 N7 Doubtless Bay ed4 1983",
+   "dct_alternative_sm": [
+    "Houhora"
+	 ],
+  "dct_description_sm": [
+    "NZMS1 N7 Doubtless Bay ed4 1983 - is part of the historical NZMS 1 1:63,360 Topographical series published by the Department of Lands and Surveys (now known as Toitū Te Whenua / Land Information New Zealand)."
+	
+  ],
+  "dct_language_sm": [
+    "eng",
+    "mao"
+  ],
+ 
+  "gbl_displayNote_sm": [
+    "Info:  This series is historical and has been superseeded"
+  ],
+  "dct_creator_sm": [
+    "Toitū Te Whenua Land Information New Zealand"
+  ],
+  "dct_publisher_sm": [
+    "Toitū Te Whenua Land Information New Zealand"
+  ]
+  "dct_rights_sm": [
+    "Unless otherwise specified, content produced by Toitū Te Whenua Land Information New Zealand is licensed under the Creative Commons Attribution 4.0 International licence. In essence you are free to copy, distribute, and adapt the work, as long as you attribute the work to Toitū Te Whenua Land Information New Zealand and abide by the other licence terms"
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ]
+  "schema_provider_s": "University of Auckland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_subject_sm": [
+    "Topographic"
+  ],
+  "dcat_theme_sm": [
+    "Boundaries",
+	"Elevation",
+	"Inland Waters",
+    "Land cover",
+    "Military",
+	"Structure",
+	"Transportation",
+	"Utilities"
+  ],
+  "dct_issued_s": "1983",
+  "gbl_indexYear_im": "1983"
+  "dct_temporal_sm": "Historic series" 
+  "dct_spatial_sm": [
+    "New Zealand",
+	"Aotearoa",
+	"Northland"
+  ],
+  "locn_geometry": "ENVELOPE(173.252778,173.701944,-34.784722,-35.033611)",
+  "dcat_bbox": "ENVELOPE(173.252778,173.701944,-34.784722,-35.033611)",
+  "gbl_georeferenced_b": "true"
+  "dct_accessRights_s": "Public",
+  "gbl_fileSize_s": "138MB"
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodatahub.library.auckland.ac.nz/api/gdr/download?filedirbase=/public/maps/LINZ&filedir=NZMS/NZMS_001/geotif/NZMS001_N7_1983_geo.tif\",\"label\":\"GeoTIF\"},{\"url\":\"https://geodatahub.library.auckland.ac.nz/api/gdr/download?filedirbase=/public/maps/LINZ&filedir=NZMS/NZMS_001/tif/NZMS001_N7_1983.tif\",\"label\":\"TIF (Printing)\"}],\"http://schema.org/url\":\"https://data.linz.govt.nz/layer/51579-nzms-260-map-sheets\",\"http://iiif.io/api/image\":\"https://ogytrwso6baludhwr6ld3iad2q0jprem.lambda-url.ap-southeast-2.on.aws/iiif/2/NZMS001_N7_1983/info.json\"}",
+  "gbl_mdModified_dt": "2023-07-19T14:33:57Z", 
+  "pcdm_memberOf_sm": "LINZ-NZMS1-MASTER",
+  "dct_isVersionOf_sm": [
+	"LINZ-NZMS1-N7_Doubtless_Bay_ed1_1950",
+	"LINZ-NZMS1-N7_Doubtless_Bay_ed2_1964",
+	"LINZ-NZMS1-N7_Doubtless_Bay_ed3_1972",
+	"LINZ-NZMS1-N7_Doubtless_Bay_ed4_1983"
+	],
+  "dct_replaces_sm": [
+    "LINZ-NZMS1-N7_Doubtless_Bay_ed3_1972",
+  ],
+  "gbl_mdVersion_s": "Aardvark"
+  "geomg_id_s": "LINZ-NZMS1-N7_Doubtless_Bay_ed4_1983"
+}
