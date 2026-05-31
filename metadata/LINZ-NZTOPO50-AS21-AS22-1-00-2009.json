@@ -1,0 +1,22 @@
+{
+  "id": "LINZ-NZTOPO50-AS21-AS22-1-00-2009",
+  "dct_title_s": "NZTopo50-AS21/AS22 Manawatāwhi / Three Kings Islands Edition 1.00 2009",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "NZTopo50-AS21/AS22 Manawatāwhi / Three Kings Islands Edition 1 2009 - is part of the 1:50,000 Topographical series published by Toitū Te Whenua / Land Information New Zealand. Vector data is avaliable from the LINZ Data Service -  https://data.linz.govt.nz/layers/category/topographic/nz-topo-50-data/"
+  ],
+  "dct_creator_sm": [
+    "Toitū Te Whenua Land Information New Zealand"
+  ],
+  "dct_publisher_sm": [
+    "Toitū Te Whenua Land Information New Zealand"
+  ],
+  "dct_issued_s": "2009",
+  "dcat_bbox": "ENVELOPE(171.95611194, 172.22005373, -34.03027149, -34.35683573)",
+  "locn_geometry": "ENVELOPE(171.95611194, 172.22005373, -34.03027149, -34.35683573)",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://geodatahub.library.auckland.ac.nz/api/gdr/download?filedirbase=/public/maps/LINZ&filedir=Topo/NZTopo50/geotif/NZTM/NZTopo50_AS21-22_1-00_2009_geo.tif\"}"
+}
