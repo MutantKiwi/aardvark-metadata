@@ -1,0 +1,39 @@
+{
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_title_s": "Map illustrating the journey of the Pundit Nain Singh through Great Tibet from Ladákh to Assam [cartographic material] : to accompany the paper by Captn. H. Trotter R.E. / [engraved by] Edwd. Weller. (geotiff)",
+  "dct_description_sm": [
+    "Relief shown by hachures and spot heights. The Pundit's route is colored red. Routes of previous explorers and major roads are also shown. Romanized name of Indian explorer: Nain Singh Rawat. British boundaries and approximate boundary between Nepal and Tibet are shown. Includes glossary of local terms for geographic features. From: The Journal of the Royal Geographical Society of London. Vol. 47, (1877), pp. 86-136; held in Firestone Library. Call number: G7 .J687 v.47 1877"
+  ],
+  "dct_publisher_sm": [
+    "London: published for the Journal of the Royal Geographical Society by J. Murray, Albemarle Street, 1877."
+  ],
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Raster data"
+  ],
+  "dct_subject_sm": [
+    "GBL Fixtures",
+    "Himalaya Mountains—Discovery and exploration—Maps",
+    "Tibet—Discovery and exploration—Maps",
+    "Physical geography—Himalaya Mountains—Maps",
+    "Great Trigonometrical Survey of India",
+    "Himalaya Mountains—Maps",
+    "Tibet Autonomous Region (China)—Maps",
+    "India, Northeastern—Maps",
+    "Physical maps",
+    "Maps"
+  ],
+  "dct_spatial_sm": [
+    "Himalaya Mountains"
+  ],
+  "locn_geometry": "ENVELOPE(79.257732, 92.742268, 34.178571, 26.339286)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoTIFF",
+  "id": "princeton-dc7h14b252v",
+  "dct_identifier_sm": [
+    "ark:/88435/dc7h14b252v"
+  ],
+  "dcat_bbox": "ENVELOPE(79.257732, 92.742268, 34.178571, 26.339286)"
+}
