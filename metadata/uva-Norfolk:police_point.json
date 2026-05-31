@@ -1,0 +1,26 @@
+{
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_title_s": "Norfolk 2005 Police Stations",
+  "dct_description_sm": [
+    "Multipoint dataset with WMS and WFS and a colon in the slug and layer ID.",
+    "Police stations for Norfolk, Virginia."
+  ],
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "gbl_resourceType_sm": [
+    "Multipoint data"
+  ],
+  "dct_subject_sm": [
+    "GBL Fixtures"
+  ],
+  "dct_issued_s": "2008-10-17",
+  "locn_geometry": "ENVELOPE(-76.346,-76.176,36.971,36.82)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "id": "uva-Norfolk:police_point",
+  "dct_identifier_sm": [
+    "315fc8ee-3b57-4ebb-aa24-4300f1c42dc9-13"
+  ],
+  "dcat_bbox": "ENVELOPE(-76.346,-76.176,36.971,36.82)"
+}
