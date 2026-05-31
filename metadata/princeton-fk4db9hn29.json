@@ -1,0 +1,33 @@
+{
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_title_s": "Orthofoto 2016 Wien (WMTS)",
+  "dct_description_sm": [
+    "The Vienna orthophoto from the year 2016 covers the entire city area with a pixel size of 15 centimeters. The aerial images were taken on 18th and 27th of March and 5th of April 2016."
+  ],
+  "dct_creator_sm": [
+    "Magistrat Wien - Magistratsabteilung 41 - Stadtvermessung"
+  ],
+  "gbl_resourceClass_sm": [
+    "Imagery"
+  ],
+  "gbl_resourceType_sm": [
+    "Aerial photographs",
+    "Raster data"
+  ],
+  "dct_subject_sm": [
+    "GBL Fixtures"
+  ],
+  "dct_issued_s": "2016-01-01T00:00:00Z",
+  "dct_spatial_sm": [
+    "Vienna",
+    "Austria"
+  ],
+  "locn_geometry": "ENVELOPE(16.133423, 16.626434, 48.3348, 48.106056)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoTIFF",
+  "id": "princeton-fk4db9hn29",
+  "dct_identifier_sm": [
+    "ark:/99999/fk4db9hn29"
+  ],
+  "dcat_bbox": "ENVELOPE(16.133423, 16.626434, 48.3348, 48.106056)"
+}
