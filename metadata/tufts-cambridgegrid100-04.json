@@ -1,0 +1,29 @@
+{
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_title_s": "100 Foot Grid Cambridge MA 2004",
+  "dct_description_sm": [
+    "Polygon dataset (no direct download) with WFS, WMS, and FGDC metadata as XML.",
+    "This polygon dataset is a 100 foot grid overlay for Cambridge, MA."
+  ],
+  "dct_publisher_sm": [
+    "Cambridge (Mass.) Geographic Information Systems"
+  ],
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
+  "dct_subject_sm": [
+    "GBL Fixtures"
+  ],
+  "dct_issued_s": "1905-06-27",
+  "locn_geometry": "ENVELOPE(-71.163984,-71.052581,42.408316,42.34757)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "id": "tufts-cambridgegrid100-04",
+  "dct_identifier_sm": [
+    "urn:geodata.tufts.edu:Tufts.CambridgeGrid100_04"
+  ],
+  "dcat_bbox": "ENVELOPE(-71.163984,-71.052581,42.408316,42.34757)"
+}
